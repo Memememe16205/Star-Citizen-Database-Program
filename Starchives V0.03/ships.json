@@ -1,0 +1,779 @@
+{
+  "ships": [
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Avenger Stalker",
+      "role": "Interdiction / Bounty Hunting"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Avenger Titan",
+      "role": "Light Cargo / Support"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Avenger Trainer",
+      "role": "Training / Light Cargo"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Avenger Warlock",
+      "role": "Electronic Warfare"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Eclipse",
+      "role": "Stealth Bomber"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Gladius",
+      "role": "Light Fighter"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Hammerhead",
+      "role": "Heavy Gunship"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Idris-K",
+      "role": "Frigate"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Idris-M",
+      "role": "Capital Ship"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Idris-P",
+      "role": "Capital Ship"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Javelin",
+      "role": "Destroyer"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Nautilus",
+      "role": "Mine Layer"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Reclaimer",
+      "role": "Heavy Salvage"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Redeemer",
+      "role": "Gunship / Dropship"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Retaliator",
+      "role": "Heavy Bomber"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Retaliator Bomber",
+      "role": "Heavy Bomber"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Sabre",
+      "role": "Stealth Fighter"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Sabre Raven",
+      "role": "Stealth Fighter"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Vanguard Harbinger",
+      "role": "Bomber"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Vanguard Hoplite",
+      "role": "Dropship"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Vanguard Sentinel",
+      "role": "Electronic Warfare"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Vanguard Warden",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Aegis Dynamics",
+      "ship_name": "Vulcan",
+      "role": "Repair / Support"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Arrow",
+      "role": "Light Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "C8 Pisces",
+      "role": "Snub / Light Transport"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "C8R Pisces Rescue",
+      "role": "Search and Rescue"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "C8X Pisces Expedition",
+      "role": "Exploration"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Carrack",
+      "role": "Expedition / Multi-Crew"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Crucible",
+      "role": "Repair"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Devastator",
+      "role": "Heavy Torpedo Bomber"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F7A Hornet (Mk I)",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F7A Hornet (Mk II)",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F7A-R Hornet Tracker",
+      "role": "Fighter / Recon"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F7C Hornet",
+      "role": "Civilian Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F7C-M Super Hornet",
+      "role": "Medium Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F7C-R Hornet Tracker",
+      "role": "Fighter / Recon"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F7C-S Hornet Ghost",
+      "role": "Stealth Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F8A Lightning",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "F8C Lightning",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Gladiator",
+      "role": "Bomber"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Hawk",
+      "role": "Light Fighter / Bounty Hunting"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Hurricane",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Legionnaire",
+      "role": "Stealth / Infiltration"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Liberator",
+      "role": "Heavy Bomber"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Osprey",
+      "role": "Medium / Heavy Gunship"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "T8A Gladiator",
+      "role": "Bomber"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Terrapin",
+      "role": "Scanning / Exploration"
+    },
+    {
+      "manufacturer": "Anvil Aerospace",
+      "ship_name": "Valkyrie",
+      "role": "Dropship"
+    },
+    {
+      "manufacturer": "ARGO Astronautics",
+      "ship_name": "MCV",
+      "role": "Multi-Crew / Heavy Cargo"
+    },
+    {
+      "manufacturer": "ARGO Astronautics",
+      "ship_name": "MOLE",
+      "role": "Multi-Crew Mining"
+    },
+    {
+      "manufacturer": "ARGO Astronautics",
+      "ship_name": "MPUV Cargo",
+      "role": "Cargo / Transport"
+    },
+    {
+      "manufacturer": "ARGO Astronautics",
+      "ship_name": "MPUV Personnel",
+      "role": "Personnel Transport"
+    },
+    {
+      "manufacturer": "ARGO Astronautics",
+      "ship_name": "MPUV-1S",
+      "role": "Refueling"
+    },
+    {
+      "manufacturer": "ARGO Astronautics",
+      "ship_name": "OUC",
+      "role": "Utility / Tow"
+    },
+    {
+      "manufacturer": "ARGO Astronautics",
+      "ship_name": "RAFT",
+      "role": "Scout / Transport"
+    },
+    {
+      "manufacturer": "ARGO Astronautics",
+      "ship_name": "SRV",
+      "role": "Search and Rescue"
+    },
+    {
+      "manufacturer": "Banu Souli",
+      "ship_name": "Defender",
+      "role": "Medium Fighter"
+    },
+    {
+      "manufacturer": "Banu Souli",
+      "ship_name": "Merchantman",
+      "role": "Trading"
+    },
+    {
+      "manufacturer": "Banu Souli",
+      "ship_name": "Triptaker",
+      "role": "Transport"
+    },
+    {
+      "manufacturer": "Consolidated Outland",
+      "ship_name": "HoverQuad",
+      "role": "Personal Transport"
+    },
+    {
+      "manufacturer": "Consolidated Outland",
+      "ship_name": "Mustang Alpha",
+      "role": "Starter / Light Fighter"
+    },
+    {
+      "manufacturer": "Consolidated Outland",
+      "ship_name": "Mustang Beta",
+      "role": "Exploration"
+    },
+    {
+      "manufacturer": "Consolidated Outland",
+      "ship_name": "Mustang Delta",
+      "role": "Light Fighter / Interdiction"
+    },
+    {
+      "manufacturer": "Consolidated Outland",
+      "ship_name": "Mustang Gamma",
+      "role": "Racing"
+    },
+    {
+      "manufacturer": "Consolidated Outland",
+      "ship_name": "Mustang Omega",
+      "role": "Racing"
+    },
+    {
+      "manufacturer": "Consolidated Outland",
+      "ship_name": "Nomad",
+      "role": "Transport / Light Cargo"
+    },
+    {
+      "manufacturer": "Consolidated Outland",
+      "ship_name": "Pioneer",
+      "role": "Settlement Construction"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "A1 Spirit",
+      "role": "Civilian Transport"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "A2 Hercules Starlifter",
+      "role": "Transport"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "Ares Star Fighter Inferno",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "Ares Star Fighter Ion",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "C1 Spirit",
+      "role": "Civilian Transport"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "C2 Hercules Starlifter",
+      "role": "Transport"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "E1 Spirit",
+      "role": "Civilian Transport"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "Genesis Starliner",
+      "role": "Passenger Transport"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "M2 Hercules Starlifter",
+      "role": "Transport"
+    },
+    {
+      "manufacturer": "Crusader Industries",
+      "ship_name": "Mercury Star Runner",
+      "role": "Data / Cargo Runner"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Buccaneer",
+      "role": "Light Fighter / Interceptor"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Caterpillar",
+      "role": "Multi-Role / Transport"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Corsair",
+      "role": "Medium Explorer"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Cutlass Black",
+      "role": "Medium Fighter / Multi-Role"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Cutlass Blue",
+      "role": "Interdiction / Bounty Hunting"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Cutlass Red",
+      "role": "Medical / Support"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Cutlass Steel",
+      "role": "Light Cargo"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Cutter",
+      "role": "Capital Salvage / Transport"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Dragonfly",
+      "role": "Snub / Ground Vehicle"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Herald",
+      "role": "Information / Data Runner"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Kraken",
+      "role": "Capital Ship"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Kraken Privateer",
+      "role": "Capital Ship"
+    },
+    {
+      "manufacturer": "Drake Interplanetary",
+      "ship_name": "Vulture",
+      "role": "Salvage"
+    },
+    {
+      "manufacturer": "Esperia Inc.",
+      "ship_name": "Blade (replica)",
+      "role": "Light Fighter"
+    },
+    {
+      "manufacturer": "Esperia Inc.",
+      "ship_name": "Glaive (replica)",
+      "role": "Medium Fighter"
+    },
+    {
+      "manufacturer": "Esperia Inc.",
+      "ship_name": "Prowler",
+      "role": "Stealth Dropship / Boarding"
+    },
+    {
+      "manufacturer": "Esperia Inc.",
+      "ship_name": "Scythe (replica)",
+      "role": "Medium Fighter"
+    },
+    {
+      "manufacturer": "Esperia Inc.",
+      "ship_name": "Talon",
+      "role": "Light Fighter"
+    },
+    {
+      "manufacturer": "Esperia Inc.",
+      "ship_name": "Talon Shrike",
+      "role": "Light Fighter"
+    },
+    {
+      "manufacturer": "Gatac Manufacture",
+      "ship_name": "Railen",
+      "role": "Cargo"
+    },
+    {
+      "manufacturer": "Kruger Intergalactic",
+      "ship_name": "P-52 Merlin",
+      "role": "Snub Fighter"
+    },
+    {
+      "manufacturer": "Kruger Intergalactic",
+      "ship_name": "P-72 Archimedes",
+      "role": "Snub Fighter"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Endeavor",
+      "role": "Research Platform"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Expanse",
+      "role": "Fuel Refinery"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Freelancer",
+      "role": "Multi-Role / Medium Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Freelancer DUR",
+      "role": "Exploration / Medium Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Freelancer MAX",
+      "role": "Heavy Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Freelancer MIS",
+      "role": "Medium Bomber"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Hull A",
+      "role": "Light Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Hull B",
+      "role": "Medium Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Hull C",
+      "role": "Heavy Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Hull D",
+      "role": "Capital Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Hull E",
+      "role": "Capital Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Odyssey",
+      "role": "Exploration / Capital Ship"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Prospector",
+      "role": "Mining"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Reliant Kore",
+      "role": "Light Cargo / Starter"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Reliant Mako",
+      "role": "News / Reporting"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Reliant Sen",
+      "role": "Science / Research"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Reliant Tana",
+      "role": "Light Fighter"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Starfarer",
+      "role": "Refueling / Medium Cargo"
+    },
+    {
+      "manufacturer": "Musashi Industrial and Starflight Concern",
+      "ship_name": "Starfarer Gemini",
+      "role": "Refueling / Medium Cargo"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "100i",
+      "role": "Starter"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "125a",
+      "role": "Light Fighter"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "135c",
+      "role": "Light Cargo"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "300i",
+      "role": "Medium Fighter / Exploration"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "315p",
+      "role": "Exploration"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "325a",
+      "role": "Light Fighter"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "350r",
+      "role": "Racing"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "400i",
+      "role": "Exploration"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "600i Explorer",
+      "role": "Luxury / Exploration"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "600i Touring",
+      "role": "Luxury / Touring"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "85X",
+      "role": "Luxury Snub"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "890 Jump",
+      "role": "Luxury / Capital Ship"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "M50",
+      "role": "Racing"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "Origin 404",
+      "role": "Racing"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "X1",
+      "role": "Open Canopy"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "X1 Force",
+      "role": "Racing"
+    },
+    {
+      "manufacturer": "Origin Jumpworks GmbH",
+      "ship_name": "X1 Velocity",
+      "role": "Racing"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Apollo Medivac",
+      "role": "Medical"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Apollo Triage",
+      "role": "Medical"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Aurora CL",
+      "role": "Light Cargo"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Aurora ES",
+      "role": "Starter / Light Cargo"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Aurora LN",
+      "role": "Starter / Light Fighter"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Aurora LX",
+      "role": "Starter / Luxury"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Aurora MR",
+      "role": "Starter"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Bengal",
+      "role": "Carrier"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Constellation Andromeda",
+      "role": "Multi-Crew / Medium Cargo"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Constellation Aquila",
+      "role": "Multi-Crew / Exploration"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Constellation Phoenix",
+      "role": "Multi-Crew / Luxury"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Constellation Taurus",
+      "role": "Multi-Crew / Cargo"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Galaxy",
+      "role": "Transport"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Mantis",
+      "role": "Interdiction"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Orion",
+      "role": "Mining Platform"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Pegasus",
+      "role": "Escort Carrier"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Perseus",
+      "role": "Heavy Fighter"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Polaris",
+      "role": "Corvette"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Scorpius",
+      "role": "Medium Fighter"
+    },
+    {
+      "manufacturer": "Roberts Space Industries",
+      "ship_name": "Scorpius Antares",
+      "role": "Medium Fighter"
+    }
+  ]
+}
